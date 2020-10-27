@@ -1,3 +1,3 @@
-### List of website to inspire
+### List of websites to inspire on
 
   - [https://stratobserve.com/](https://stratobserve.com/)
