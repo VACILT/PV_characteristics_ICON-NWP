@@ -2,3 +2,8 @@
 
   - [https://stratobserve.com/](https://stratobserve.com/)
   - [https://simonleewx.com/polar-vortex-forecasts/](https://simonleewx.com/polar-vortex-forecasts/)
+  - [https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/winterdiagnostics/index.html](https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/winterdiagnostics/index.html)
+  - [http://ds.data.jma.go.jp/tcc/tcc/products/clisys/STRAT/](http://ds.data.jma.go.jp/tcc/tcc/products/clisys/STRAT/)
+  - [https://acd-ext.gsfc.nasa.gov/Data_services/arctic/](https://acd-ext.gsfc.nasa.gov/Data_services/arctic/)
+  - [http://www.pa.op.dlr.de/arctic/ecmwf.php](http://www.pa.op.dlr.de/arctic/ecmwf.php)
+  - [https://ozonewatch.gsfc.nasa.gov/NH.html](https://ozonewatch.gsfc.nasa.gov/NH.html)
