@@ -12,3 +12,10 @@
 ### Tools
 
   - [pyicon](https://gitlab.dkrz.de/m300602/pyicon)
+  
+  
+### Data sources
+
+  - [DWD](https://opendata.dwd.de/)
+  - [CMC](https://dd.weather.gc.ca/)
+  - [GEOS5](https://opendap.nccs.nasa.gov/dods/GEOS-5/fp/0.25_deg/fcast)
