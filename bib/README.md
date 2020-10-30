@@ -17,5 +17,5 @@
 ### Data sources
 
   - [DWD](https://opendata.dwd.de/)
-  - [CMC](https://dd.weather.gc.ca/)
+  - [CMC](https://dd.weather.gc.ca/) + [info](https://weather.gc.ca/grib/grib2_ens_geps_e.html)
   - [GEOS5](https://opendap.nccs.nasa.gov/dods/GEOS-5/fp/0.25_deg/fcast)
