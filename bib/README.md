@@ -17,6 +17,7 @@
   - [pyicon](https://gitlab.dkrz.de/m300602/pyicon)
   - [aostools](https://github.com/mjucker/aostools)
   - [psyplot](https://psyplot.github.io/)
+  - [ICON data analysis](https://wiki.mpimet.mpg.de/doku.php?id=analysis:postprocessing_icon:start)
   
   
 ### Data sources
