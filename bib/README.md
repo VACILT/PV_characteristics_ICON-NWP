@@ -13,13 +13,23 @@
   
 
 ### Tools
+#### Data
 
-  - [aostools](https://github.com/mjucker/aostools)
   - [Herbie](https://github.com/blaylockbk/Herbie)
   - [ICON data analysis](https://wiki.mpimet.mpg.de/doku.php?id=analysis:postprocessing_icon:start)
   - [icon_globe](https://github.com/guidocioni/icon_globe)
-  - [psyplot](https://psyplot.github.io/)
   - [pyicon](https://gitlab.dkrz.de/m300602/pyicon)
+
+#### Methods
+  - [aostools](https://github.com/mjucker/aostools)
+  - [pyvortex](https://github.com/pankajkarman/pyvortex)
+  - [Finite-amplitude Local Wave Activity](https://github.com/csyhuang/hn2016_falwa)
+  - [standing-travelling-decomp](https://github.com/oliverwm1/standing-travelling-decomp) similarly in [heatwave](https://github.com/echarliewhite/heatwave)
+
+
+#### Visualization
+  - [psyplot](https://psyplot.github.io/)
+
 
   
   
