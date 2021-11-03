@@ -17,6 +17,7 @@
   - [aostools](https://github.com/mjucker/aostools)
   - [Herbie](https://github.com/blaylockbk/Herbie)
   - [ICON data analysis](https://wiki.mpimet.mpg.de/doku.php?id=analysis:postprocessing_icon:start)
+  - [icon_globe](https://github.com/guidocioni/icon_globe)
   - [psyplot](https://psyplot.github.io/)
   - [pyicon](https://gitlab.dkrz.de/m300602/pyicon)
 
@@ -27,3 +28,4 @@
   - [DWD](https://opendata.dwd.de/)
   - [CMC](https://dd.weather.gc.ca/) + [info](https://weather.gc.ca/grib/grib2_ens_geps_e.html)
   - [GEOS5](https://opendap.nccs.nasa.gov/dods/GEOS-5/fp/0.25_deg/fcast)
+  - [GFSv16 up to 0.01 hPa](https://twitter.com/SimonLeeWx/status/1374297378891706370)
