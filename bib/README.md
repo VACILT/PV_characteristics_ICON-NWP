@@ -19,6 +19,7 @@
   - [ICON data analysis](https://wiki.mpimet.mpg.de/doku.php?id=analysis:postprocessing_icon:start)
   - [icon_globe](https://github.com/guidocioni/icon_globe)
   - [pyicon](https://gitlab.dkrz.de/m300602/pyicon)
+  - [mss_data](https://github.com/jkretz/mss_data) by [Jan Kretzschmar](https://github.com/jkretz)
 
 #### Methods
   - [aostools](https://github.com/mjucker/aostools)
