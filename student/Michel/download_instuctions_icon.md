@@ -12,11 +12,16 @@ Modules necessary for download:
 - numpy
 - pandas
 - xarray
+- dask
 - netCDF4
+- cfgrib
 - matplotlib
 - cartopy (conda-forge)
-- ipywidgets
+- (ipywidgets | not used)
 - aostools
+	- (windspharm | not used)
+- (ambiance | standart atmosphere)
+- PIL (for image manipulation and gif creation)
 
 ## download icon grids & weights
 - 13 km resolution
@@ -49,9 +54,9 @@ Modules necessary for download:
 
 to do:
 =============================
-- put output into seperate directory with datename
-- merge nc files
-- interpolate
+- put output into seperate directory with datename | outdated
+- merge nc files | outdated
+- interpolate | outdated
 	- delete old files to save disk space
 
 Problems:
