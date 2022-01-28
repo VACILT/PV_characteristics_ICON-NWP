@@ -1,6 +1,6 @@
 
 # Download data with icon-globe:
-## create conda environment nwp-py2 for downloading
+### create conda environment nwp-py2 for downloading
 `conda create -n nwp-py2 python=3.6`
 
 Modules necessary for download:
