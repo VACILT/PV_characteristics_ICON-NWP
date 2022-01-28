@@ -1,3 +1,9 @@
+"""
+plot functions for climate data
+author: Michel Michalkow
+date: 25.01.22
+"""
+
 import numpy as np
 import xarray as xr
 import cfgrib
