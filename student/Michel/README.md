@@ -2,6 +2,15 @@
 
 Here are the scripts developed for the students project. 
 
+
+
+https://user-images.githubusercontent.com/42503231/151680787-8027a2b7-129f-4beb-962c-bb96ba210c0f.mp4
+
+
+
+
+
+
 There is a plain python script [Eval.py](https://github.com/VACILT/PV_characteristics_ICON-NWP/blob/main/student/Michel/Eval.py), containing plotting routines to plot climate data:
 - on a map
 - meridional profile
