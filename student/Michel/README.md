@@ -2,12 +2,9 @@
 
 Here are the scripts developed for the students project. 
 
-
-
 https://user-images.githubusercontent.com/42503231/151681552-29c70c59-35f5-4e73-aa3e-93ba0e253151.mp4
 
-https://user-images.githubusercontent.com/42503231/151681851-81584cbe-33c8-42a9-8065-2364dca425f3.mp4
-
+https://user-images.githubusercontent.com/42503231/151682178-33e94486-a2d5-462b-a7cb-4954c2048a13.mp4
 
 
 There is a plain python script [Eval.py](https://github.com/VACILT/PV_characteristics_ICON-NWP/blob/main/student/Michel/Eval.py), containing plotting routines to plot climate data:
